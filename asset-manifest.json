@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ToDoAp/static/css/main.7e3c1b77.css",
+    "main.js": "/ToDoAp/static/js/main.8a78905e.js",
+    "static/js/787.63e47474.chunk.js": "/ToDoAp/static/js/787.63e47474.chunk.js",
+    "static/media/delete.svg": "/ToDoAp/static/media/delete.7c228be695c11f912732b47784104350.svg",
+    "static/media/revert.svg": "/ToDoAp/static/media/revert.74d214422cba601d0914891eccdbe4ef.svg",
+    "index.html": "/ToDoAp/index.html",
+    "static/media/plus.svg": "/ToDoAp/static/media/plus.19bbb341fb5456e964a1569924f69873.svg",
+    "static/media/tick-green.svg": "/ToDoAp/static/media/tick-green.b01db653d28ca6c03db027cb8c88498d.svg",
+    "main.7e3c1b77.css.map": "/ToDoAp/static/css/main.7e3c1b77.css.map",
+    "main.8a78905e.js.map": "/ToDoAp/static/js/main.8a78905e.js.map",
+    "787.63e47474.chunk.js.map": "/ToDoAp/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e3c1b77.css",
+    "static/js/main.8a78905e.js"
+  ]
+}
